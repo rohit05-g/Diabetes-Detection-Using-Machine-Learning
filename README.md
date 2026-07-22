@@ -33,7 +33,7 @@ This project predicts whether a person is likely to have diabetes based on healt
 ## Project Files
 - `diabetes_detection.py` – Main program
 - `diabetes.csv` – Dataset
-- `sample_output.png` – Sample output
+- `diabetes_output.jpeg` – Sample output
 ## Sample Output
 The system displays:
 ![Sample Output](diabetes_output.jpeg)
